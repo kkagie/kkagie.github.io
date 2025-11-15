@@ -76,7 +76,7 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the same.
 colors: # this is the basic theme
-  text: "#EDDEA4"
+  text: "#8EB8E5"
   border: "#8EB8E5"
   link: "#4a76ee"
   highlight: "#0c0cf2"
