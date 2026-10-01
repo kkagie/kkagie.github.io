@@ -7,12 +7,12 @@
 
 # Main Page Setup
 
-title: Melinda's Portfolio # This is what shows up in the tab of the browser
+title: Mel's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: Melinda Zhao
+name: Mel Zhao
 headline: aspiring engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   nice to meet you! i'm a senior at Princeton International School of Math and Science. Based in NY and NJ.
@@ -35,7 +35,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
-  instragram:  mel_diamondflames/     # https://instagram.com/{your url slug} 
+  instragram:  melxlei/     # https://instagram.com/{your url slug} 
   youtube:      kkagie     # https://youtube.com/@{your url slug} 
   discord:      kkagie      # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
